@@ -62,19 +62,19 @@
 <h2>NICE Framework KSAs</h2>
 
 <ul>
-<li>K0119	- Knowledge of hacking methodologies.</li>
+<li>K0119: Knowledge of hacking methodologies.</li>
 <br>
-<li>K0206	- Knowledge of ethical hacking principles and techniques.	</li>
+<li>K0206: Knowledge of ethical hacking principles and techniques.	</li>
 <br>
-<li>K0177	- Knowledge of cyber attack stages (e.g., reconnaissance, scanning, enumeration, gaining access, escalation of privileges, maintaining access, network exploitation, covering tracks).</li>
+<li>K0177: Knowledge of cyber attack stages (e.g., reconnaissance, scanning, enumeration, gaining access, escalation of privileges, maintaining access, network exploitation, covering tracks).</li>
 <br>
-<li>K0005	- Knowledge of cyber threats and vulnerabilities. </li>
+<li>K0005: Knowledge of cyber threats and vulnerabilities. </li>
 <br>
-<li>K0009	- Knowledge of application vulnerabilities.</li>
+<li>K0009: Knowledge of application vulnerabilities.</li>
 <br>
-<li>K0144	- Knowledge of social dynamics of computer attackers in a global context.</li>
+<li>K0144: Knowledge of social dynamics of computer attackers in a global context.</li>
 <br>
-<li>S0052	- Skill in the use of social engineering techniques. (e.g., phishing, baiting, tailgating, etc.).</li>
+<li>S0052: Skill in the use of social engineering techniques. (e.g., phishing, baiting, tailgating, etc.).</li>
 </ul>
 
 <h2>Lesson Prerequisites</h2>
@@ -195,7 +195,22 @@ Traditional warfare is bound by conventions and treaties, but cyber warfare oper
 </ul>
 
 
+<h2>Conclusion</h2>
+Understanding cyber warfare is crucial in today's interconnected world, as it encompasses a range of sophisticated and potentially devastating digital threats posed by nation-states and organized groups. Knowledge of cyber warfare helps individuals and organizations recognize and defend against these advanced persistent threats, digital espionage, and other malicious activities aimed at compromising sensitive information and disrupting critical infrastructure. By staying informed about the tactics and tools used in cyber warfare, such as botnets, zero-day vulnerabilities, and digital weapons, we can better prepare and respond to these threats, ensuring stronger security measures and safeguarding national and corporate interests. Awareness of cyber warfare not only enhances our ability to protect ourselves but also fosters a more resilient and secure digital environment.
 
+<h2>Definitions</h2>
+<ul>
+
+<li><b>Cyber Warfare:</b> The use of digital attacks by nations to undermine or disrupt the activities of other nations or organizations.</li><br>
+<li><b>Digital Espionage:</b> The covert collection of confidential or sensitive information through digital means for political, economic, or strategic advantage.</li><br>
+<li><b>APT (Advanced Persistent Threat):</b> A prolonged and targeted cyber attack where attackers gain and maintain access to a network to steal data or disrupt operations.</li><br>
+<li><b>Hacktivist:</b> An individual or group that uses hacking techniques to promote political or social causes and protest against perceived injustices.</li><br>
+<li><b>Botnet:</b> A network of compromised computers controlled remotely by an attacker, often used to carry out large-scale attacks or spread malware.</li><br>
+<li><b>Zero-Day Vulnerability:</b> A previously unknown security flaw in software that has not yet been patched or publicly disclosed, making it an attractive target for attackers.</li><br>
+<li><b>Nation-State Actor:</b> A government-sponsored group or individual that engages in cyber activities for political, military, or economic objectives.</li><br>
+<li><b>Digital Weapon:</b> A tool or software designed to cause damage or disruption through digital means, such as malware or viruses.</li><br>
+<li><b>DDoS Attack (Distributed Denial of Service):</b> An attack that overwhelms a target’s servers or network with traffic from multiple sources, rendering it unavailable to users.</li>
+</ul>
 
 
 
@@ -212,7 +227,7 @@ Traditional warfare is bound by conventions and treaties, but cyber warfare oper
 
 <h2> Hands-On Labs</h2>
 
-
+<h2>Games</h2>
 
 <h2>Additonal Resources</h2>
 
