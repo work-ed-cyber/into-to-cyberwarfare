@@ -226,7 +226,9 @@ Understanding cyber warfare is crucial in today's interconnected world, as it en
 <a href="https://docs.google.com/presentation/d/1ZuYqNbAXxqQJhSlnBWiVA_rVBVCw9104/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true">Hacktivism</a>
 
 <h2> Hands-On Labs</h2>
-<a href="https://github.com/work-ed-cyber/12.1-med"> Introduction to Cyber Warfare </a> - Medium
+<a href="https://github.com/work-ed-cyber/12.1-easy-">Introduction to Cyberwarfare</a> - Easy <br>
+<br>
+<a href="https://github.com/work-ed-cyber/12.1-med"> Introduction to CyberWarfare </a> - Medium
 
 <h2>Games</h2>
 <a href="https://create.kahoot.it/share/quiz-lesson-12-1-introduction-to-cyber-warfare/dcd3ed50-d3a5-409a-be48-569e7c0189a2"> Kahoot: Introduction to Cyber Warfare </a>
